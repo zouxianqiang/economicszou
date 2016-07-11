@@ -1,0 +1,941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lnchd",
+				"lnchdhrwage"
+			],
+			[
+				"Yemp",
+				"Yemp_hrwage"
+			],
+			[
+				"em",
+				"emp_hrwage"
+			],
+			[
+				"sel",
+				"selfemp_income"
+			],
+			[
+				"Yem",
+				"Yemp_income"
+			],
+			[
+				"emp",
+				"emp_income"
+			],
+			[
+				"self",
+				"selfemp_hour"
+			],
+			[
+				"parent",
+				"parent_income_ave"
+			],
+			[
+				"lnhh",
+				"lnhh_netincome_ave"
+			],
+			[
+				"hh",
+				"hh_netincome2000"
+			],
+			[
+				"ln",
+				"lnparent_income_ave"
+			],
+			[
+				"child",
+				"childhealth_std"
+			],
+			[
+				"bir",
+				"birthweight_std"
+			],
+			[
+				"mc",
+				"Mcollege04"
+			],
+			[
+				"extern",
+				"external04_irt_std"
+			],
+			[
+				"inter",
+				"internal04_irt_std"
+			],
+			[
+				"mother",
+				"mother_Ncog"
+			],
+			[
+				"mothe",
+				"mother_Ncog_irt_std"
+			],
+			[
+				"childhe",
+				"childhealth_std"
+			],
+			[
+				"mo",
+				"mother_Ncog_irt"
+			],
+			[
+				"mot",
+				"mother_Ncog_irt"
+			],
+			[
+				"equ",
+				"equscale"
+			],
+			[
+				"paren",
+				"parentinc_aver"
+			],
+			[
+				"varcog",
+				"varcog00"
+			],
+			[
+				"internal",
+				"internal00_irt_std"
+			],
+			[
+				"varstd",
+				"varstd00"
+			],
+			[
+				"ave",
+				"ave_Ncog09"
+			],
+			[
+				"Mc",
+				"Mcollege00"
+			],
+			[
+				"num",
+				"num_docs_pop"
+			],
+			[
+				"g",
+				"gdp_pc"
+			],
+			[
+				"provcd",
+				"provcdfixed"
+			],
+			[
+				"mean",
+				"meanonly"
+			],
+			[
+				"ncogirt",
+				"ncogirtlist15"
+			],
+			[
+				"lnc",
+				"lnfainc"
+			],
+			[
+				"work",
+				"workplace"
+			],
+			[
+				"childinc",
+				"childinc_beg"
+			],
+			[
+				"num_beds",
+				"num_beds_pop"
+			],
+			[
+				"father",
+				"father_eduyear"
+			],
+			[
+				"varst",
+				"varstd04"
+			],
+			[
+				"hi",
+				"high_school"
+			],
+			[
+				"chd",
+				"chd_hrwage"
+			],
+			[
+				"whe",
+				"whether_work"
+			],
+			[
+				"lnin",
+				"lninc_pc"
+			],
+			[
+				"fa",
+				"fa_yrschooling"
+			],
+			[
+				"inc",
+				"inc_pc0004"
+			],
+			[
+				"lnfainc",
+				"lnfainc_male"
+			],
+			[
+				"fc",
+				"fchildno1lnfmonthinc"
+			],
+			[
+				"cen",
+				"censusreg"
+			],
+			[
+				"num_beds_all",
+				"num_beds_all_pc"
+			],
+			[
+				"province",
+				"province_health"
+			],
+			[
+				"in",
+				"intensity"
+			],
+			[
+				"cfps",
+				"cfpsnewreg"
+			],
+			[
+				"wage",
+				"wage_llastyear"
+			],
+			[
+				"faedu",
+				"faedu_catgory"
+			],
+			[
+				"Co",
+				"Cog04"
+			],
+			[
+				"liter",
+				"literacy09_std"
+			],
+			[
+				"Openness",
+				"Openness15_std"
+			],
+			[
+				"wave",
+				"wave3_hh_original"
+			],
+			[
+				"Fnon",
+				"FNonCog15"
+			],
+			[
+				"A",
+				"Agreeableness15_irt_std"
+			],
+			[
+				"NonCog",
+				"NonCog15"
+			],
+			[
+				"Cog",
+				"Cog09"
+			],
+			[
+				"wealth",
+				"wealth_pc2004"
+			],
+			[
+				"fa_edu",
+				"fa_eduyear00"
+			],
+			[
+				"male",
+				"male_wave1"
+			],
+			[
+				"tex",
+				"texdest"
+			],
+			[
+				"face",
+				"face_inter"
+			],
+			[
+				"rosen",
+				"rosenberg15"
+			],
+			[
+				"plantin",
+				"plantincome"
+			],
+			[
+				"pl",
+				"plantinput"
+			],
+			[
+				"to",
+				"totalwage"
+			],
+			[
+				"hh_t",
+				"hh_tincome"
+			],
+			[
+				"edu",
+				"edulevel_child"
+			],
+			[
+				"birth",
+				"birthyear_child"
+			],
+			[
+				"_",
+				"_merge"
+			],
+			[
+				"dep",
+				"depress00_irt"
+			],
+			[
+				"exter",
+				"external00_irt"
+			],
+			[
+				"Interna",
+				"internal00"
+			],
+			[
+				"rev",
+				"reverse"
+			],
+			[
+				"po",
+				"positive"
+			],
+			[
+				"pa",
+				"paret_depress15"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"YE",
+				"YExtraversion_std15"
+			],
+			[
+				"Ex",
+				"Extraversion15_std"
+			],
+			[
+				"Ag",
+				"Agreeableness15_std"
+			],
+			[
+				"Cons",
+				"Conscientiousness15_std"
+			],
+			[
+				"Y",
+				"YNeuroticism"
+			],
+			[
+				"Yopen",
+				"YOpenness_std"
+			],
+			[
+				"Ya",
+				"YAgreeableness_std"
+			],
+			[
+				"Yrevres",
+				"Yreverse_raw"
+			],
+			[
+				"Ypo",
+				"Ypositive_raw"
+			],
+			[
+				"cons",
+				"Conscientiousness"
+			],
+			[
+				"con",
+				"Conscientiousness15"
+			],
+			[
+				"ag",
+				"Agreeableness15"
+			],
+			[
+				"ex",
+				"Extraversion15"
+			],
+			[
+				"intd",
+				"intdtfeduy"
+			],
+			[
+				"ya",
+				"year_income"
+			],
+			[
+				"three",
+				"threeyearalldummy"
+			],
+			[
+				"other",
+				"other_area"
+			],
+			[
+				"by",
+				"byother_area"
+			],
+			[
+				"selfem",
+				"selfemploy"
+			],
+			[
+				"livin",
+				"livinput_ofeedvalue"
+			],
+			[
+				"h18",
+				"h1801_09"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Matlab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Matlab.sublime-build",
+					"xterm"
+				]
+			],
+			[
+				"Packages/User/Matlab.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: hello"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"item	",
+				"Snippet: Itemize"
+			],
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/xzou/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/xzou/Downloads/precip.mon.total.v401.nc",
+		"/Users/xzou/Dropbox/ZXQ_CT/3_UHS/86-01 6省数据/list.txt",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqhhcleanwave4.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqwage_wave3new.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqregdata_combine.do",
+		"/Users/xzou/HKUST /2013 winter do file/child_nonhhm.do",
+		"/Users/xzou/HKUST /2013 winter do file/6expenditure_final_0417.do",
+		"/Users/xzou/HKUST /2013 winter do file/5income_0512.do",
+		"/Users/xzou/HKUST /2013 winter do file/4wealth_0512.do",
+		"/Users/xzou/HKUST /2013 winter do file/3transfer_0330.do",
+		"/Users/xzou/HKUST /2013 winter do file/2hh_age_structure_0417.do",
+		"/Users/xzou/HKUST /2013 winter do file/1living_arrangement_0512.do",
+		"/Users/xzou/Matlab code/Townsend 2011 ETA documentation/README.txt",
+		"/Users/xzou/Matlab code/Townsend 2011 ETA documentation/README.pdf",
+		"/Users/xzou/Matlab code/Finance and Misallocation Replication Files/AER_code/Benchmark/cp.mat",
+		"/Users/xzou/Estiamte wage dynamics replication_files/Baseline/ModelEstimation/EstimationBaseline.f90",
+		"/Users/xzou/Estiamte wage dynamics replication_files/data_treatment_2/process_data_1.do",
+		"/Users/xzou/Downloads/documentation/README.txt",
+		"/Users/xzou/Downloads/zichen.do",
+		"/Users/xzou/Downloads/stataex/tools/a2group.ado",
+		"/Users/xzou/Downloads/stataex/template.do",
+		"/Users/xzou/Dropbox/CEES/do/2_personality.do",
+		"/Users/xzou/Dropbox/CEES/do/1_cees.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqwave4pycho.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqhh_combine.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/occupation.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_combine/regressioncode0620/IGE0618.do",
+		"/Users/xzou/Downloads/networkbuilder/systw.ole",
+		"/Users/xzou/Downloads/networkbuilder/sysdep.ole",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_combine/regres0620/summarize.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_combine/regres0620/rankrank.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_combine/regres0620/jointdet0612.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqchdcleanwave4_forreg.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_gender/accountfor0519_inc.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_gender/summarize.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_gender/rankrank.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_gender/jointdet0612.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_gender/accountfor0612_inc_parental.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_restricted/accountfor0612_inc_parental.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_restricted/accountfor0519pca.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_restricted/convert_results.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_restricted/jointdet0612.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_restricted/accountfor0519_inc.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/regression_code_restricted/rankrank.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Regresion_do/convert_results.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Regresion_do/accountfor0519_edu.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Regresion_do/accountfor0612_inc_scale.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Regresion_do/accountfor0612_inc_parental.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Regresion_do/accountfor0519_inc.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Regresion_do/accountfor0611_inc_father.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqhhclean_wave1.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqhhclean_wave2.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqhhcleanwave3.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/cfpsclean.do",
+		"/Users/xzou/Documents/The fertility conference",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqwage_wave3.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqregdata_clean.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/hhsize.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/xqTestscore.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/combineNcog.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Data_Clean/gender.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/sensiticity0425ver3.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/censusmakeforregression.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/centertest.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/censusclean.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Regression_code/accountfor.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/censusinter_inc.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/robustse0425.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/sensitivity0506ver4.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey (2)/Tables-do files -August2012/Table5-1stStage-OverIDtest-Condivreg.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xq code/xqwave4pycho.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xq code/combineNcog.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xq code/xqwave1pycho.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xq code/xqTestscore.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xq code/xqchdcleanwave4.do",
+		"/Users/xzou/Downloads/Copy of replic_final/replic_final/analysis/datamaker.do",
+		"/Users/xzou/Downloads/submissions (2)/chensihao HW2/HW2.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/unicode_transfer.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqhhcleanwave4.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqchdcleanwave4_forreg.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqchdcleanwave4.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqinter_mobilenew.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqinter_mobile.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/regression_before.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqdatamakerforregression.do",
+		"/Users/xzou/Downloads/code_archive/mto_final_analysis_code.do",
+		"/Users/xzou/Downloads/code_archive/test.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/graph.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqpsychometrics.do",
+		"/Users/xzou/Dropbox/Inter_mobility in rural China/Xianqiang's data/regression.do",
+		"/Users/xzou/Dropbox/Inter_mobility in rural China/Xianqiang's data/xqdatamakerforregression.do",
+		"/Users/xzou/Dropbox/Inter_mobility in rural China/Xianqiang's data/xqdatacleanwave12.do",
+		"/Users/xzou/Dropbox/Inter_mobility in rural China/Xianqiang's data/xqdatacleanwave4.do",
+		"/Users/xzou/Dropbox/Inter_mobility in rural China/Xianqiang's data/xqdatacleanwave3.do",
+		"/Users/xzou/Dropbox/Inter_mobility in rural China/Xianqiang's data/datamaker_householdwave1wave2.do",
+		"/Users/xzou/Dropbox/Inter_mobility in rural China/Xianqiang's data/basicxqdatacleanwave4.do",
+		"/Users/xzou/Dropbox/Inter_mobility in rural China/Xianqiang's data/datamaker_regression.do",
+		"/Users/xzou/Dropbox/Inter_mobility in rural China/Xianqiang's data/parent_xqdatacleanwave4.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/censusinter_edu.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/sensitivity.do",
+		"/Users/xzou/Dropbox/Inter_mobility in rural China/Xianqiang's data/to do list for the intergenerational mobility in r",
+		"/Users/xzou/Library/Application Support/Sublime Text 3/Packages/Stata Enhanced/Stata Enhanced (OSX).sublime-settings",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/cfpsInter_inc.do",
+		"/Users/xzou/Dropbox/OCP and InterMobility/Code/cfpsInter_edu.do",
+		"/Users/xzou/Dropbox/GSCF_Weiwei/match_waves_20151201.do",
+		"/Users/xzou/Dropbox/GSCF_weiweimatch/cf_mod.ado",
+		"/Users/xzou/Dropbox/CEES/dataclean.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/combineNcog.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqhhcleanwave3.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqhhclean_wave1.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqhhclean_wave2.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/intermob_pre.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqfatherincomebackup.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/hhsize.do",
+		"/Users/xzou/Dropbox/GSCF/Data versions from other sources/Xinzheng GSCF1 and GSCF2/Xinzheng data/datamaker_regression.do",
+		"/Users/xzou/Dropbox/GSCF/Data versions from other sources/Xinzheng GSCF1 and GSCF2/Xinzheng data/datamaker_householdwave1wave2.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqhhclean_wave12.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_QQ/Constructed_Data/Construction_Do/0Base_data.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_QQ/Tables-do-files-Final set/Table2&3_Correlations.do",
+		"/Users/xzou/Downloads/all_codes/wave_1000/do_codes/st.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/regression.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqwage_wave3.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqTestscore.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqwave4pycho.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqwave1pycho.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqwave2pycho.do",
+		"/Users/xzou/Dropbox/Data_Gansu_Survey_XQ/Xianqiang code/xqwave3pycho.do"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"",
+			"sensitivity.do",
+			"xqinter_mobilenew.do",
+			"sensitivity.do",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mng2",
+			"tif",
+			"health",
+			"plant",
+			"weighting",
+			"new0619rankmale",
+			"male",
+			"equscale",
+			"equ",
+			"inc_pc_average",
+			"inc_pc",
+			"hhsize",
+			"se",
+			"gender",
+			"{\n",
+			"gen",
+			"GSCF_kids_all_waves_samehh.dta",
+			"beta not",
+			"educontrol1",
+			"intdtfeduy",
+			"singlefeduy",
+			"feduy",
+			"eduy",
+			"ivreg2",
+			"()",
+			"cluster(provcd)",
+			"eststo:qui ivregress 2sls",
+			"first",
+			"corrlat",
+			"corr",
+			"**",
+			"corrlat",
+			"intdtlnfinc1",
+			"lnfmothinc",
+			"singlelnfmothinc",
+			"lnchildinc",
+			"singlehatnewfeduy",
+			"intdtfeduy",
+			"singlefeduy",
+			"feduy",
+			"eduy",
+			"edu",
+			"probit",
+			"first",
+			"hh_tincome_ave",
+			"chdid",
+			"childinc",
+			"edu",
+			"wave4_hh_indinc.dta",
+			"lagged",
+			"lnchildinc",
+			",r",
+			"reg",
+			"texdest",
+			"occupation",
+			"housing",
+			"egen hh_dural=rowtotal(hh_23b2_01 hh_23b2_02 hh_23b2_03 hh_23b2_04 hh_23b2_05 hh_23b2_06 hh_23b2_07 hh_23b2_08 hh_23b2_09 hh_23b2_10 hh_23b2_11 hh_23b2_12 hh_23b2_13 hh_23b2_14 hh_23b2_15 hh_23b2_16 hh_23b2_17 hh_23b2_18 hh_23b2_19 hh_23b2_20 hh_23b2_21 hh_23b2_22 hh_23b2_23 hh_23b2_24)\n",
+			"mo_edu",
+			"fa_edu",
+			"fainc1",
+			"landinput",
+			"land_in",
+			"land_income",
+			"landincome",
+			"land",
+			"wage",
+			"factor",
+			"Data_Gansu_Survey",
+			"foreach x in h2403 h2404{",
+			"gender",
+			"Neuroticism",
+			"Conscientiousness",
+			"Agreeableness",
+			"extraversion",
+			"80",
+			"edu",
+			"time",
+			"***to revise the OCP and intermobility paper\n**Xianqiang ZOU\n**the revision start from 9/9/2015\n\n**this file is for census data clean\n***this file is for data clean of mini census 2005\n***zou,xianqiang 1/11/1015\n***purpose, generate the parent children data for analysis \n\n\nclear all\nset more off\ncd  \"/Users/xzou/Dropbox/OCP and InterMobility/Data\"\n\nuse data09.dta,clear\n\n***generate the variables which is useful for the analysis\nren r2 relation\nren r4_02 birthyear\nren r4_03 birthmonth\nren r5 ethnic\nren r11 hukou\nren r13 health\nren r17 edul\nren r18 educomplete\nren r19 weekwork\nren r19_01 weekhrs\nren r22 danwei\nren r23 workstatus\nren r24 laborcontract\nren r25 monthinc\nren r26 renotwork\nren r27 searchjob\nren r30 incsource\nren r31 marriagestatus\nren r33_01 fer_boy\nren r33_02 fer_girl\nren r34_01 boyno\nren r34_02 girlno\nlabel var city_flag \"city1/town2/rural3\"\n\n**drop the jitihu\n* drop if h2==2\n\n\nreplace city_flag=\"\" if city_flag==\"A\"\ndestring city_flag,replace\ngen urban=1 if city_flag==1|city_flag==2\nreplace urban=0 if city_flag==3\ntab urban\n\nreplace hukou=0 if hukou==1\nreplace hukou=1 if hukou==2\nlabel var hukou \"0 for rural, 1 for city\"\n\ndrop age ave_age\ngen male=1 if r3==1\nreplace male=0 if r3==2\ndrop r3\n\ngen provcd=int(dz_code/100)\ngen housevalue= h19_01*10000+ h19_02*1000\n\ngen age=2005-birthyear if birthmonth<=10\nreplace age=2005-birthyear-1 if birthmonth>10\n\ngen region=1 if provcd==11 |provcd==12 |provcd==13 |provcd==21 |provcd==31 |provcd==32 |provcd==33 | provcd==35 |provcd==37 | provcd==44 | provcd==46 \nreplace region=3 if provcd==15 | provcd==45 | provcd>46\nreplace region=2 if missing(region)\nlabel var region \"1 for east, 2 for central, 3 for west\" \n**compare the less developed province and relatively developed provinces\n\ntabulate region, gen(r)\n*calcalate the number of children for the women in the sample\n\ngen childno=boyno+girlno   \n\n**the number of children and the marriagestatus\n***expolate the number of children to the husband\n*keep the sample with only one marriage\ngen couple=1 if relation==1 | relation==0\nreplace couple=2 if relation==3\nbysort dz_code id couple: egen childno1=max(childno)\n**the variable childno1 is the children no for the couple. \n\n**we have the number the children for the women, match the women with the men\n*keep if marriagestatus==2\nkeep dz_code id monthinc childno1 age birthyear weekhrs ///\nrelation weekwork workstatus provcd region r1 r2 r3 male edul ///\neducomplete marriagestatus urban housevalue incsource danwei boyno girlno\nsave wholesample.dta,replace\n\n***generate the parents-children data***\n***in this analysis, I keep all the parents children pair I could identify from the data.\n**in the regression I need to restrict the sample to make it more suitable for mobility research\n\n**Treat the household head as child and match with parents\nuse wholesample.dta,clear\nkeep if relation==0\nsave child1.dta,replace\n\n\nuse wholesample.dta,clear\nkeep if relation==3\nkeep if male==1\nduplicates report dz_code id \nduplicates drop dz_code id, force\nren age fage\nren birthyear fbirthyear\nren monthinc fmonthinc\nren weekhrs fweekhrs\nren weekwork fweekwork\nren workstatus fworkstatus\nren male fmale\nren edul fedul\nren educomplete feducomplete\nren urban furban\nren marriagestatus fmarriagestatus\nren danwei fdanwei\nren childno1 fchildno1\nren incsource fincsource\ntempfile father1\nsave father1.dta,replace\n\n\nuse wholesample.dta,clear\nkeep if relation==0 | relation==1\nkeep if male==1\nduplicates drop dz_code id, force\nren age fage\nren birthyear fbirthyear\nren monthinc fmonthinc\nren weekhrs fweekhrs\nren weekwork fweekwork\nren workstatus fworkstatus\nren male fmale\nren edul fedul\nren educomplete feducomplete\nren urban furban\nren marriagestatus fmarriagestatus\nren danwei fdanwei\nren childno1 fchildno1\nren incsource fincsource\ntempfile father2\nsave father2.dta,replace\n\nuse wholesample.dta,clear\nkeep if relation==2\ntempfile child2\nsave child2.dta,replace\n\n\n\n***merge the father's data and children's data\nuse child1.dta,clear\nmerge 1:1 dz_code id using father1.dta\nkeep if _merge==3 | _merge==1 \nsave parchild1.dta,replace\nkeep if _merge==3\ndrop _merge\nsave fachild1.dta,replace\n\n\n\n\nuse fachild1.dta,clear\nappend using fachild2.dta\nsave fachild.dta,replace\n\n\n* use wholesample.dta,clear\n* keep if relation==3\n* keep if male==0\n* duplicates report dz_code id \n* duplicates drop dz_code id, force\n* ren age mage\n* ren birthyear mbirthyear\n* ren monthinc mmonthinc\n* ren weekhrs mweekhrs\n* ren weekwork mweekwork\n* ren workstatus mworkstatus\n* ren male mmale\n* ren edul medul\n* ren educomplete meducomplete\n* ren urban murban\n* ren marriagestatus mmarriagestatus\n* ren danwei mdanwei\n* ren boyno mboyno\n* ren girlno mgirlno\n* ren childno1 mchildno1\n* ren incsource mincsource\n* tempfile mother1\n* save mother1.dta,replace\n\n\n* **Treat the household head as parents and match with children\n* use wholesample.dta,clear\n* keep if relation==0 | relation==1\n* keep if male==0\n* ren age mage\n* ren birthyear mbirthyear\n* ren monthinc mmonthinc\n* ren weekhrs mweekhrs\n* ren weekwork mweekwork\n* ren workstatus mworkstatus\n* ren male mmale\n* ren edul medul\n* ren educomplete meducomplete\n* ren urban murban\n* ren marriagestatus mmarriagestatus\n* ren danwei mdanwei\n* ren boyno mboyno\n* ren girlno mgirlno\n* ren childno1 mchildno1\n* ren incsource mincsource\n* tempfile mother2\n* save mother2.dta,replace\n\n* use parchild1.dta,clear\n* drop _merge\n* merge 1:1 dz_code id using mother1.dta\n* keep if _merge==3 | _merge==1\n* drop _merge\n* save parchild1.dta,replace\n\n* use child2.dta,clear\n* merge m:1 dz_code id using father2.dta\n* keep if _merge==3 | _merge==1\n* save parchild2.dta,replace\n* keep if _merge==3\n* drop _merge\n* save fachild2.dta,replace\n\n* use parchild2.dta,clear\n* drop _merge\n* merge m:1 dz_code id using mother2.dta\n* keep if _merge==3 | _merge==1\n* drop _merge\n* save parchild2.dta,replace\n\n* use parchild1,clear\n* append using parchild2.dta\n* save parchild.dta,replace",
+			"birthyear",
+			"07dummy",
+			"04dummy",
+			"00dummy",
+			"0407dummy",
+			"0007dummy",
+			"0004dummy",
+			"deflate",
+			"replace",
+			"hh_23a1",
+			"h2201",
+			"223",
+			"222b",
+			"quan",
+			"222a",
+			"self",
+			"221",
+			"wave ",
+			"wave 3",
+			"wave",
+			"emtime",
+			"`i'",
+			"0`i'",
+			"`i'",
+			"0`i'",
+			"19",
+			"do",
+			");\n",
+			"\\",
+			"trim",
+			"bold"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"se label",
+			"replace",
+			"not",
+			"inccontrol1",
+			"intdtfinc1",
+			"sigfinc",
+			"lnfmonthinc",
+			"lnmonthinc",
+			"eststo: qui ivregress 2sls",
+			"robust",
+			"ivreg2",
+			"intdtfinc1",
+			"lnfmonthinc",
+			"sigfinc",
+			"lnmonthinc",
+			"singlehatnewlnfinc1",
+			"intdtlnfinc1",
+			"singlelnfmothinc",
+			"lnfmothinc",
+			"lnchildinc",
+			"lnchildinc1",
+			",absorb(villcode) r",
+			"areg",
+			"texdestnew",
+			"fa_edu",
+			"mo_edu",
+			"fainc",
+			"Data_Gansu_Survey_XQ",
+			"Openness",
+			"Neuroticism",
+			"Conscientiousness",
+			"Agreeableness",
+			"dummy07",
+			"dummy04",
+			"dummy00",
+			"dummy0407",
+			"dummy0007",
+			"dummy0004",
+			"hh_23a2",
+			"hh_23a1",
+			"224",
+			"223",
+			"value",
+			"222b",
+			"buy",
+			"222a",
+			"10",
+			"0`i'",
+			"`i'",
+			"15"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Stata Enhanced/Stata.sublime-build",
+	"project": "xqfun2.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"wave1_hhver1.dta"
+			],
+			[
+				"bas",
+				"~/Dropbox/Inter_mobility in rural China/Xianqiang's data/basicxqdatacleanwave4.do"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
